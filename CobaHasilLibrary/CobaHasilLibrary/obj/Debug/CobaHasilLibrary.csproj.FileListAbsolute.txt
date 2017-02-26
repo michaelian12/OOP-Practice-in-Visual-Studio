@@ -1,0 +1,8 @@
+c:\users\michael\documents\visual studio 2015\Projects\CobaHasilLibrary\CobaHasilLibrary\bin\Debug\CobaHasilLibrary.exe.config
+c:\users\michael\documents\visual studio 2015\Projects\CobaHasilLibrary\CobaHasilLibrary\bin\Debug\CobaHasilLibrary.exe
+c:\users\michael\documents\visual studio 2015\Projects\CobaHasilLibrary\CobaHasilLibrary\bin\Debug\CobaHasilLibrary.pdb
+c:\users\michael\documents\visual studio 2015\Projects\CobaHasilLibrary\CobaHasilLibrary\bin\Debug\CobaLibrary.dll
+c:\users\michael\documents\visual studio 2015\Projects\CobaHasilLibrary\CobaHasilLibrary\bin\Debug\CobaLibrary.pdb
+c:\users\michael\documents\visual studio 2015\Projects\CobaHasilLibrary\CobaHasilLibrary\obj\Debug\CobaHasilLibrary.csprojResolveAssemblyReference.cache
+c:\users\michael\documents\visual studio 2015\Projects\CobaHasilLibrary\CobaHasilLibrary\obj\Debug\CobaHasilLibrary.exe
+c:\users\michael\documents\visual studio 2015\Projects\CobaHasilLibrary\CobaHasilLibrary\obj\Debug\CobaHasilLibrary.pdb

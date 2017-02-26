@@ -1,0 +1,5 @@
+c:\users\michael\documents\visual studio 2015\Projects\CobaLINQ\CobaLINQ\bin\Debug\CobaLINQ.exe.config
+c:\users\michael\documents\visual studio 2015\Projects\CobaLINQ\CobaLINQ\bin\Debug\CobaLINQ.exe
+c:\users\michael\documents\visual studio 2015\Projects\CobaLINQ\CobaLINQ\bin\Debug\CobaLINQ.pdb
+c:\users\michael\documents\visual studio 2015\Projects\CobaLINQ\CobaLINQ\obj\Debug\CobaLINQ.exe
+c:\users\michael\documents\visual studio 2015\Projects\CobaLINQ\CobaLINQ\obj\Debug\CobaLINQ.pdb

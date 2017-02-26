@@ -1,0 +1,6 @@
+c:\users\michael\documents\visual studio 2015\Projects\CobaCollection\CobaCollection\bin\Debug\CobaCollection.exe.config
+c:\users\michael\documents\visual studio 2015\Projects\CobaCollection\CobaCollection\bin\Debug\CobaCollection.exe
+c:\users\michael\documents\visual studio 2015\Projects\CobaCollection\CobaCollection\bin\Debug\CobaCollection.pdb
+c:\users\michael\documents\visual studio 2015\Projects\CobaCollection\CobaCollection\obj\Debug\CobaCollection.csprojResolveAssemblyReference.cache
+c:\users\michael\documents\visual studio 2015\Projects\CobaCollection\CobaCollection\obj\Debug\CobaCollection.exe
+c:\users\michael\documents\visual studio 2015\Projects\CobaCollection\CobaCollection\obj\Debug\CobaCollection.pdb

@@ -1,0 +1,5 @@
+c:\users\michael\documents\visual studio 2015\Projects\CobaLibrary\CobaLibrary\bin\Debug\CobaLibrary.dll
+c:\users\michael\documents\visual studio 2015\Projects\CobaLibrary\CobaLibrary\bin\Debug\CobaLibrary.pdb
+c:\users\michael\documents\visual studio 2015\Projects\CobaLibrary\CobaLibrary\obj\Debug\CobaLibrary.csprojResolveAssemblyReference.cache
+c:\users\michael\documents\visual studio 2015\Projects\CobaLibrary\CobaLibrary\obj\Debug\CobaLibrary.dll
+c:\users\michael\documents\visual studio 2015\Projects\CobaLibrary\CobaLibrary\obj\Debug\CobaLibrary.pdb

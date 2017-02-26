@@ -1,0 +1,6 @@
+c:\users\michael\documents\visual studio 2015\Projects\CobaAggregation\CobaAggregation\bin\Debug\CobaAggregation.exe.config
+c:\users\michael\documents\visual studio 2015\Projects\CobaAggregation\CobaAggregation\bin\Debug\CobaAggregation.exe
+c:\users\michael\documents\visual studio 2015\Projects\CobaAggregation\CobaAggregation\bin\Debug\CobaAggregation.pdb
+c:\users\michael\documents\visual studio 2015\Projects\CobaAggregation\CobaAggregation\obj\Debug\CobaAggregation.csprojResolveAssemblyReference.cache
+c:\users\michael\documents\visual studio 2015\Projects\CobaAggregation\CobaAggregation\obj\Debug\CobaAggregation.exe
+c:\users\michael\documents\visual studio 2015\Projects\CobaAggregation\CobaAggregation\obj\Debug\CobaAggregation.pdb

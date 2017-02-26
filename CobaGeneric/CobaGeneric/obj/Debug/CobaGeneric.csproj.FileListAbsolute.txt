@@ -1,0 +1,5 @@
+c:\users\michael\documents\visual studio 2015\Projects\CobaGeneric\CobaGeneric\bin\Debug\CobaGeneric.exe.config
+c:\users\michael\documents\visual studio 2015\Projects\CobaGeneric\CobaGeneric\bin\Debug\CobaGeneric.exe
+c:\users\michael\documents\visual studio 2015\Projects\CobaGeneric\CobaGeneric\bin\Debug\CobaGeneric.pdb
+c:\users\michael\documents\visual studio 2015\Projects\CobaGeneric\CobaGeneric\obj\Debug\CobaGeneric.exe
+c:\users\michael\documents\visual studio 2015\Projects\CobaGeneric\CobaGeneric\obj\Debug\CobaGeneric.pdb
